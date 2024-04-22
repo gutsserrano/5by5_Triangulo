@@ -1,7 +1,5 @@
 ﻿//  Faça um programa que leia os três lados de um triangulo e informe o tipo dele
 
-using System;
-
 float lado1, lado2, lado3;
 
 int option;
